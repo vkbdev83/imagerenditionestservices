@@ -52,10 +52,10 @@
 						<image>registry.hub.docker.com/vishnube818/imagerenditioncore</image>
 					</from>
 					<to>
-						<image>registry.hub.docker.com/vishnube818/imagerenditionrestservices</image>
+						<image></image>
 						<auth>
-							<username>vishnube818</username>
-							<password>shobvishnu83</password>
+							<username></username>
+							<password></password>
 						</auth>
 					</to>
 				</configuration>
